@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 25 11:06:41 2022
 
-@author: palmera3
+@Authors: Ayden Palmer, Jaden Reid
 """
 
 from PyQt5 import QtWidgets, uic, QtGui, QtCore
